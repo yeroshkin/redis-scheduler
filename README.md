@@ -1,4 +1,4 @@
-# redis-scheduler
+# Redis Scheduler
 
 ## How to install
 
@@ -12,7 +12,7 @@ npm i
 npm start
 ```
 
-### How to run multiple instancies
+## How to run multiple instancies
 ```bash
 PORT=3001 npm start
 PORT=3002 npm start
