@@ -2,18 +2,18 @@
 
 ## Install
 
-```bash
+```sh
 docker-compose up -d
 npm i
 ```
 
 ## Run
-```bash
+```sh
 npm start
 ```
 
 ## Run multiple instancies
-```bash
+```sh
 PORT=3001 npm start
 PORT=3002 npm start
 PORT=3003 npm start
