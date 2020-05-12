@@ -1,18 +1,18 @@
 # Redis Scheduler
 
-## How to install
+## Install
 
 ```bash
 docker-compose up -d
 npm i
 ```
 
-## How to run
+## Run
 ```bash
 npm start
 ```
 
-## How to run multiple instancies
+## Run multiple instancies
 ```bash
 PORT=3001 npm start
 PORT=3002 npm start
